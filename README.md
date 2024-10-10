@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adeolu Miracle
 - I'm frontend developer
-- 👀 currently student @scriba.com
-- 🌱 I’m currently learning ... HTML,CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on ... my learning
+- 👀student @scriba.com
+- 🌱 skills:  HTML,CSS, JAVASCRIPT, React, ts, tailwindcss, firebase, AI
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... (Whatapp)+2348146432387 
 - my email address: adeolumiracle@yahoo.com
 
